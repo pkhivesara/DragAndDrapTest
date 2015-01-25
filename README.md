@@ -1,6 +1,6 @@
 # DragAndDropTest
 First shot at implementing drag and drop on a GridView. CRI sample app. 
-Maven and Retrofit used in the sample app.
+Maven and Retrofit usage.
 
 #License
 ```
